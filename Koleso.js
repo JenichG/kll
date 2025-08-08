@@ -1,5 +1,5 @@
 (function manageWheel() {
-    const allowedNicknames = ['Крош', 'Node', 'NickAce'];
+    const allowedNicknames = ['Крош', 'Node', 'Nickace'];
     let scriptRunning = false;
     let intervalId = null;
 
@@ -160,3 +160,4 @@
         }
     }
 })();
+
