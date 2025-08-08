@@ -1,5 +1,5 @@
 (function manageWheel() {
-    const allowedNicknames = ['Крош', 'Node'];
+    const allowedNicknames = ['Крош', 'Node', 'NickAce'];
     let scriptRunning = false;
     let intervalId = null;
 
